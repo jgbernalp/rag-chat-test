@@ -1,0 +1,7 @@
+node_modules
+*.test.ts
+*.test.tsx
+dist
+schemaTypes.ts
+jest.config.js
+scripts/*
